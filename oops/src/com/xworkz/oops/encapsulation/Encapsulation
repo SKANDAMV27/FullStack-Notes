@@ -1,0 +1,8 @@
+*   Encapsulation is an one of the principal under the object orientde programming Langauage.
+*   Encapsultion in java it process the wrapping of the data(variable) and method that operats the data into a single unit(class) and controll the direct access the some components to the object.
+key Features of Encapsulation
+*   Data Hiding : we decleared the variable with private so it cannot access the directly from the outside class.
+*   public getter and setter method is used to read or modify the data.
+*   we can change the internal code witout effecting the outside class.
+
+Example of the Encapsulation is DTO

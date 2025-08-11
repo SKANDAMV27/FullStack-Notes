@@ -1,0 +1,6 @@
+*   this is an keywords.
+*   this refers to the current class instance.
+*   this is used to call the another constructor  in same class.
+*   if we use this() then it is called as Constructor chaining.
+*   this is used to call the method in same class we use only this.
+*   this is not used with the static contex because static belongs to the class not an object.

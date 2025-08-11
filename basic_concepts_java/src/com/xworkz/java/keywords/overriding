@@ -1,0 +1,7 @@
+*   overriding is an Run-Time Polymorphism.
+*   overriding in java means redefining the method from the super class to the sub class having the same method name,parameter and the return type so child class can also create a own implementation.
+
+Rules of the overriding
+*   method name should be same.
+*   having same parameter and the return type.
+*   cannot override the static,final and private method.

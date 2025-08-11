@@ -1,0 +1,36 @@
+*   Polymorphism is an one of the Principal in object oriented programming language.
+*   Polymorphism means " many form" in java allows same method or object but the behavior is different based on the object that invokes.
+*   Having Same Name but Different Forms.
+
+*   It have Two Type of Polymorphism
+
+    * Compile-Time Polymorphism
+    * Run-Time Polymorphism
+
+    * Compile-Time Polymorphism :
+        Method Behavior is determined during compail Time.
+        It is an Method Overloading.
+        It having same Method but different parameter.
+        *   overloading is an compile-Time polymorphism.
+        *   overloading in a java with the multiple class having same name but different parameter.
+        Rules of overloading
+        *   Method name should be same.
+        *   Method having the different parameter.
+        *   can have different access modifier.
+        *   can throw the different exception.
+
+
+
+    * Run-Time Polymorphism:
+        Method Behavior is determinde during Run Time.
+        It is an Method overriding.
+        Subclass provide the special implimination of method that alredy defined in Superclass.
+        *   overriding is an Run-Time Polymorphism.
+        *   overriding in java means redefining the method from the super class to the sub class having the same method name,parameter and the return type so child class can also create a own implementation.
+
+        Rules of the overriding
+        *   method name should be same.
+        *   having same parameter and the return type.
+        *   cannot override the static,final and private method.
+
+

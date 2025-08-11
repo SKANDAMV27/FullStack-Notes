@@ -1,0 +1,6 @@
+*   super is an keywords.
+*   super is used to call the method from the Super class to subclass.
+*   super is used to call the another constructor from the super class to subclass.
+*   In child  constructor super is an first statement.
+*   If we donot add the super to the child constructor then campiler only automically add the the default constructor.
+*   super is not used for the static contex.

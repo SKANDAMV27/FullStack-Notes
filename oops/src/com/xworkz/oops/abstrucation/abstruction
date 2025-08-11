@@ -1,0 +1,9 @@
+*   Abstrucation is an one of the principal under the object oriented programming language.
+*   Abstructaion in java it is a process of hiding the internal implementation details of funcationality and showing only the essentational funcational to the user.
+*   Abstrucation can be achived by the two ways
+    *   abstract class(it is an 100% abstrucation)
+        *   we declear the abstract class with the abstract key.
+        *   abstract method (without a body) and normal method having a body
+        *   subclasses can implements the methods from the abstract class.
+     * Interface(It is an 100% abstraction)
+        *   A class can implement multiple interfaces
