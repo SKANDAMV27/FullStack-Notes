@@ -1,0 +1,20 @@
+*   Map is an Interface it is not a subclass of collection it is a seperate interface in the java.util package.
+*   Sort the data in key-value pair.
+    * where key is an unique.
+    * Value is an Duplicate.
+*   Map it consist of 4 subclass.
+
+    Hashmap : It is a unorder , fast , it allows a null value & key.
+
+        LinkedHashmap: It is an subclass of Hashmap , It maintain a inseration order.
+
+    Treemap: It sort by the key.
+
+    HashTable : no null value & key.
+
+    WeakHashTable : key can be grabge- collected.
+
+
+
+
+

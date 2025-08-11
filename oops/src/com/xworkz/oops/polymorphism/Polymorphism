@@ -1,5 +1,5 @@
 *   Polymorphism is an one of the Principal in object oriented programming language.
-*   Polymorphism means " many form" in java allows same method or object but the behavior is different based on the object that invokes.
+*   Polymorphism means " many form" in java allows same method or object in a class  but the behavior is different based on the object that invokes.
 *   Having Same Name but Different Forms.
 
 *   It have Two Type of Polymorphism
