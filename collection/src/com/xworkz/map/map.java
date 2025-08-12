@@ -33,7 +33,7 @@ public class map {
             System.out.println(car2);
         }
         Map<Integer , String > sort = new TreeMap<>(car);
-        System.out.print("Sorted: "+sort);
+        System.out.println("Sorted: "+sort);
         
        
         
