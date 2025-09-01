@@ -12,7 +12,7 @@
         It is an Method Overloading.
         It having same Method but different parameter.
         *   overloading is an compile-Time polymorphism.
-        *   overloading in a java with the multiple method having same name but different parameter.
+        *   overloading in a java with the multiple method in a same class having same name but different parameter.
         Rules of overloading
         *   Method name should be same.
         *   Method having the different parameter.
