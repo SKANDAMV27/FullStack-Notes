@@ -6,4 +6,6 @@
         *   abstract method (without a body) and normal method having a body
         *   subclasses can implements the abstract methods from the abstract class.
      * Interface(It is an 100% abstraction)
-        *   A class can implement multiple interfaces
+        *   A class can implement multiple interfaces.
+        *   An Interface can have only the abstract method(Without Body).
+        *   An Interface cannot have Constructor,because they cannot be initiated directly.
