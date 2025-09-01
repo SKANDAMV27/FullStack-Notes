@@ -4,6 +4,6 @@
     *   abstract class(it is an 100% abstrucation)
         *   we declear the abstract class with the abstract key.
         *   abstract method (without a body) and normal method having a body
-        *   subclasses can implements the methods from the abstract class.
+        *   subclasses can implements the abstract methods from the abstract class.
      * Interface(It is an 100% abstraction)
         *   A class can implement multiple interfaces
