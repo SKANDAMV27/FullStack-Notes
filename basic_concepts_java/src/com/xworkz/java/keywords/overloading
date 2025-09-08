@@ -1,5 +1,5 @@
 *   overloading is an compile-Time polymorphism.
-*   overloading in a java with the multiple class having same name but different parameter.
+*   overloading in a java  class having mutiple method having same  name but different parameter.
 Rules of overloading
 *   Method name should be same.
 *   Method having the different parameter.
