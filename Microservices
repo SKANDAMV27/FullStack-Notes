@@ -1,0 +1,7 @@
+API Gateway
+  It is the Single Entry point that routes client request to the appraprite microservices.
+Responsible For:
+1. Route Request
+2. Handel Authentication
+3. Apply Rate Limite
+4. Logs Request
