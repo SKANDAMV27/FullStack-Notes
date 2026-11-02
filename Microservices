@@ -5,3 +5,12 @@ Responsible For:
 2. Handel Authentication
 3. Apply Rate Limite
 4. Logs Request
+
+Why API Gateway is Required 
+  Example: Imagine you're developing an application with three backend services:
+          - User Service — handles registration and login.
+          - Product Service — manages products.
+          - Order Service — manages orders and payments.
+Without an API Gateway, the frontend needs to know the address of every service.
+
+An API Gateway sits between the frontend and the backend services.
