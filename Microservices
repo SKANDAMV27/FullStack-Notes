@@ -14,3 +14,8 @@ Why API Gateway is Required
 Without an API Gateway, the frontend needs to know the address of every service.
 
 An API Gateway sits between the frontend and the backend services.
+
+
+In Monolithic Architecture, you can have multiple modules (or business functions) and one database.
+
+Microservices is a business function that splited in the differnt application.
