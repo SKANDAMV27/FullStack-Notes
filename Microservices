@@ -1,5 +1,5 @@
 API Gateway
-  It is the Single Entry point that routes client request to the appraprite microservices.
+  An API Gateway is a single entry point through which a client communicates with multiple backend microservices.
 Responsible For:
 1. Route Request
 2. Handel Authentication
