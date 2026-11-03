@@ -21,4 +21,6 @@ In Monolithic Architecture, you can have multiple modules (or business functions
 Microservices is a business function that splited in the differnt application.
 
 
-Synchronous Comminution: One Service call the another service and wait for the response and it is the sequencial flow
+Synchronous Comminution: One Service call the another service and wait for the response and it is the sequencial flow.
+
+Asynchronous Communatation: It Doesnot block (It Doesnot wait for the response) Indenpedent processing for each service.
