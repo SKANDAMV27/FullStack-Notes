@@ -19,3 +19,6 @@ An API Gateway sits between the frontend and the backend services.
 In Monolithic Architecture, you can have multiple modules (or business functions) and one database.
 
 Microservices is a business function that splited in the differnt application.
+
+
+Synchronous Comminution: One Service call the another service and wait for the response
